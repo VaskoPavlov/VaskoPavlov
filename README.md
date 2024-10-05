@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <!-- Greeting -->
   <h2>Hey there! 👋 I'm Vasil Pavlov 👨‍💻</h2>
   
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJ4Mnk4aHlzN2hydDRjbmozZWxueWJpZWEwNGNiZmZmdmpiejhoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6heBQSjt2IoA8/giphy.gif" width="1000"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJ4Mnk4aHlzN2hydDRjbmozZWxueWJpZWEwNGNiZmZmdmpiejhoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6heBQSjt2IoA8/giphy.gif" width="600"/>
 
   <!-- GitHub Stats -->
   <p align="center">
