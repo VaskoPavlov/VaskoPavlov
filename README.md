@@ -64,10 +64,10 @@ Here are some ideas to get you started:
   <!-- Education -->
   <h3>🎓 Education:</h3>
   <p>
-    - 📜 Software Engineering, Software University, Sofia, BG (2022 - Present)  
-    - 📜 Certificate: JavaScript, React, TypeScript (Grade: Excellent 6.00)  
-    - 📜 Computer Science and Informatics, Varna Free University, BG (2020 - 2021)  
-    - 📜 Cambridge English Language Assessment (B2, Overall Score 178)  
+    - 📜 Software Engineering, Software University, Sofia, BG (2022 - Present) </br>  
+    - 📜 Certificate: JavaScript, React, TypeScript (Grade: Excellent 6.00) </br>  
+    - 📜 Computer Science and Informatics, Varna Free University, BG (2020 - 2021) </br>  
+    - 📜 Cambridge English Language Assessment (B2, Overall Score 178) </br>  
   </p>
 
   <!-- Fun Facts -->
