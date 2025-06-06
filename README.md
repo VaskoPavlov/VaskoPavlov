@@ -17,7 +17,7 @@
     🚀 I'm a highly motivated graduate student from Sofia, Bulgaria, transitioning from Finance to Computer Science.  </br> 
     🎯 Specialized in full-stack development with a focus on JavaScript, React, and TypeScript.  </br> 
     🥋 Fun fact: I hold a 1st dan black belt in Shotokan Karate!  </br> 
-    🌱 Currently honing my skills in React, TypeScript, and Web Development. </br> 
+    🌱 Currently honing my skills in React, NextJS, TypeScript, and Web Development. </br> 
   </p>
 
   <h3>📫 Let's connect:</h3>
@@ -50,7 +50,7 @@
   <!-- Education -->
   <h3>🎓 Education:</h3>
   <p>
-    - 📜 Software Engineering, Software University, Sofia, BG (2022 - Present) </br>  
+    - 📜 Software Engineering, Software University, Sofia, BG (2022 - 2024)  Diploma Software Engneering with JavaScript (Grade: Excellent 5.96)</br>  
     - 📜 Certificate: JavaScript, React, TypeScript (Grade: Excellent 6.00) </br>  
     - 📜 Computer Science and Informatics, Varna Free University, BG (2020 - 2021) </br>  
     - 📜 Cambridge English Language Assessment (B2, Overall Score 178) </br>  
