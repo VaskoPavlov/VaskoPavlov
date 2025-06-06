@@ -50,7 +50,8 @@
   <!-- Education -->
   <h3>🎓 Education:</h3>
   <p>
-    - 📜 Software Engineering, Software University, Sofia, BG (2022 - 2024)  Diploma Software Engneering with JavaScript (Grade: Excellent 5.96)</br>  
+    - 📜 Software Engineering, Software University, Sofia, BG (2022 - 2024) </br> 
+    - 📜 Diploma Software Engneering with JavaScript (Grade: Excellent 5.96)</br>  
     - 📜 Certificate: JavaScript, React, TypeScript (Grade: Excellent 6.00) </br>  
     - 📜 Computer Science and Informatics, Varna Free University, BG (2020 - 2021) </br>  
     - 📜 Cambridge English Language Assessment (B2, Overall Score 178) </br>  
