@@ -15,7 +15,7 @@
   <!-- About Me -->
   <p>
     🚀 I'm a highly motivated graduate student from Sofia, Bulgaria, transitioning from Finance to Computer Science.  </br> 
-    🎯 Specialized in full-stack development with a focus on JavaScript, React, and TypeScript.  </br> 
+    🎯 Specialised in full-stack development with a focus on JavaScript, React, and TypeScript.  </br> 
     🥋 Fun fact: I hold a 1st dan black belt in Shotokan Karate!  </br> 
     🌱 Currently honing my skills in React, NextJS, TypeScript, and Web Development. </br> 
   </p>
